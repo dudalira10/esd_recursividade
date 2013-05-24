@@ -1,4 +1,4 @@
-public class CalcularFatorial{
+public class Fatorial{
 
 	public static int fatorial(int num){
 		if(num == 0){
