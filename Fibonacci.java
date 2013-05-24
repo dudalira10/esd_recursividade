@@ -1,4 +1,4 @@
-public class CalcularFibonacci{
+public class Fibonacci{
 		
 		public static int fibonacci(int num){
 			if((num == 1) || (num == 2)){
